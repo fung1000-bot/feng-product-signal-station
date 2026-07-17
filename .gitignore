@@ -1,0 +1,15 @@
+.env
+.env.*
+profile.md
+profile/
+data/
+logs/
+raw/
+staging/
+manual-inbox/
+
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
